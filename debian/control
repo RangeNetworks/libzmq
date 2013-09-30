@@ -7,7 +7,7 @@ Build-Depends: build-essential, debhelper (>= 7), pkg-config, autoconf
 Standards-Version: 3.7.3
 
 Package: range-libzmq
-Version: 3.2.2.1
+Version: 3.2.2.2
 Section: comm
 Priority: optional
 Architecture: i386
