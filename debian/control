@@ -13,5 +13,5 @@ Priority: optional
 Architecture: i386
 Essential: no
 Depends: libc6-i686, pkg-config
-Description: Range Networks - libzmq
+Description: Range Networks - Tested Version of libzmq
 
