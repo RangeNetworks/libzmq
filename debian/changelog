@@ -1,5 +1,5 @@
-range-libzmq (3.2.2.3) UNRELEASED; urgency=low
+range-libzmq (3.2.2.3) unstable; urgency=low
 
     * Test
 
- -- Michael Iedema <michael.iedema@rangenetworks.com> Fri, 9 Aug 2013 00:11:00 -0700
+ -- Michael Iedema <michael.iedema@rangenetworks.com>  Fri, 9 Aug 2013 00:11:00 -0700
