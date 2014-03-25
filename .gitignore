@@ -1,0 +1,6 @@
+._*
+*.tar.gz
+*.deb
+*.dsc
+*.changes
+zeromq-3.2.2
