@@ -41,4 +41,4 @@ sayAndDo tar zxf zeromq-$VERSION.tar.gz
 sayAndDo mkdir zeromq-$VERSION/debian
 sayAndDo cp debian/* zeromq-$VERSION/debian/
 sayAndDo cd zeromq-$VERSION
-sayAndDo dpkg-buildpackage
+sayAndDo dpkg-buildpackage -ai386
