@@ -10,8 +10,8 @@ Package: range-libzmq
 Provides: libzmq3
 Section: comm
 Priority: optional
-Architecture: i386
+Architecture: any
 Essential: no
-Depends: libc6-i686, pkg-config
+Depends: libc6, pkg-config
 Description: Range Networks - Tested Version of libzmq
 
